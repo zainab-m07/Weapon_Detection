@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/Major Project/yolo/Dataset  # dataset root dir
+train: Train  # train images (relative to 'path') 4 images
+val: Valid
+# Classes (80 COCO classes)
+names:
+  0: gun
